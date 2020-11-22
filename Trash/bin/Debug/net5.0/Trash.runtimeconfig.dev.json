@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\virag\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\virag\\.nuget\\packages"
+    ]
+  }
+}
